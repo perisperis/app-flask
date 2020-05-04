@@ -114,6 +114,9 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# Eclipse project settings
+.project
+
 # Rope project settings
 .ropeproject
 
